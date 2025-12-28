@@ -1,6 +1,8 @@
 # PsycheLux
 Windows Terminal theme based on color psychology
 
+Recommended Font: **CaskaydiaCove Nerd Font**
+
 ## INSTALLATION: Put in "schemes" json section
 ```json
 {
